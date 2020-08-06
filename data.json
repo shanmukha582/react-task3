@@ -1,0 +1,52 @@
+{
+	"details":{
+		"name":"Shanmukha Priya",
+		"image":"image1.jpg",
+		"email":"peelapriya68@gmail.com",
+		"number":"+91-9912345678",
+		"address":" D.no:23-3/1,Near Subbammadevi hight school, Eluru-2"
+	},
+	"careerobjective":{
+		"info":"To become software developer"
+	},
+	"educationalqualification":[
+	
+
+		{
+   
+			"institute":"Eluru college of Engineering and Technology",
+			"degree":"B.tech",
+			"passoutyear":"2021",
+			"percentage":"79%"
+		},
+		{
+			"institute":"sri chaitanya college",
+			"degree":"Intermediate",
+			"passoutyear":"2017",
+			"percentage":"91"
+		},
+		{
+			"institute":"St.Theresa's girls high school",
+			"degree":"SSC",
+			"passoutyear":"2015",
+			"percentage":"92%"
+		}
+
+	],
+
+	"techinicalskills":[
+		{
+		"title":"programming langauges",
+		"info":["c,c++,java,python,R"]
+	},
+		{
+		"title":"Databases",
+		"info":["oracle,sql,mysql,TinyDB,mongodb"]
+	},
+		{
+		"title":"OPerating system",
+		"info":["windows,linux,ubuntu,Dos"]
+	}
+
+	]
+}
